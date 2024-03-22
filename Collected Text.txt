@@ -1,0 +1,11 @@
+TRIZ is a set of systematic thinking tools to help you improve systems in innovative ways.
+
+TRIZ is an attitude to problem solving that can change the way you deal with any kind of problem.
+
+TRIZ is a way of accessing the collective creativity of humanity.
+
+Contradiction Matrix: Show what principles can be used to ensure a better trade off between two different parameters.
+
+The TRIZ databases are actually a collection of "open source" resources compiled by users and aficionados of the system (such as the Innovative Principles and contradiction matrix).
+
+Innovative Principles: show how and where others have successfully eliminated contradictions and provide the proven, powerful recorded solutions.
